@@ -1,0 +1,5 @@
+tsc -> compila tsc -> tsc <nombre archivo>
+node -> compila js -> node <nombre archivo>
+
+
+tsc --w -> escucha y compila el ts -> tsc --w <nombre archivo>
